@@ -1,0 +1,19 @@
+﻿@model OOP_Projesi.Entity.Customer
+
+@{
+    ViewData["Title"] = "CustomerAdd";
+    Layout = "~/Views/Shared/_CoreLayout.cshtml";
+}
+
+<h1>Müşteri Ekleme Sayfası</h1>
+<form
+    method="post">
+    @Html.Label("Müşteri Adı")
+    @Html.TextBoxFor(x=>x.CustomerName,new {@class ="form-control"})
+    <br />
+    @Html.Label("Müşteri Şehri")
+    @Html.TextBoxFor(x=>x.CustomerCity,new {@class ="form-control"})
+    <br />
+     <button class ="btn btn-info">Müşteriyi kaydet</button>
+</form>
+
