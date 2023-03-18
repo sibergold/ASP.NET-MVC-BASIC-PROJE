@@ -2,7 +2,7 @@
 
 Basit Bir MVC Projesi
 
-Bu projede ürünler ve müşteriler için ekleme,güncelleme,silme ve listeleme işlemleri yer almaktadır. Sil butonuna basıldığı anda istenilen ıd değerindeki satır tablodan silinir.
+Bu projede ürünler ve müşteriler için ekleme,güncelleme,silme ve listeleme işlemleri ve sayfalar arası geçiş yer almaktadır. Sil butonuna basıldığı anda istenilen ıd değerindeki satır tablodan silinir.
 ![Ürün Güncelle](https://user-images.githubusercontent.com/111015033/226119348-b81ed18b-0150-4abb-b036-ddee95712d5e.png)
 ![Customer Güncelleme](https://user-images.githubusercontent.com/111015033/226119355-c76f537c-259a-410c-87a3-1871e1f10338.png)
 ![Müşteri](https://user-images.githubusercontent.com/111015033/226119359-969aa13c-0fb2-4f38-86d0-3c7088be6dd5.png)
